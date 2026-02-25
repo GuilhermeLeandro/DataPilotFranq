@@ -1,0 +1,30 @@
+# Ambiente virtual
+.venv/
+
+# Variáveis de ambiente (segredos)
+.env
+
+# Banco de histórico de chat (gerado em runtime)
+data/chat_history.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db

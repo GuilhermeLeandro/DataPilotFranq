@@ -1,0 +1,7 @@
+langchain>=0.3
+langchain-openai>=0.2
+langgraph>=0.2
+streamlit>=1.40
+plotly>=5.22
+pandas>=2.0
+python-dotenv>=1.0
