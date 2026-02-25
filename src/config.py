@@ -22,7 +22,7 @@ AGENT_RECURSION_LIMIT = int(os.getenv("AGENT_RECURSION_LIMIT", "25"))
 
 # ── App ────────────────────────────────────────────────────────────────────────
 APP_TITLE = "DataPilot – Assistente de Dados"
-APP_ICON = "🤖"
+APP_ICON  = None
 APP_VERSION = "1.0"
 
 EXAMPLE_QUESTIONS = [

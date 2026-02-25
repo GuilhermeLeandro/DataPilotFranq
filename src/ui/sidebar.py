@@ -40,8 +40,9 @@ def render_sidebar() -> None:
 
         st.divider()
         st.markdown(
-            f"""<div style='font-size:11px; color: rgba(255,255,255,0.3);'>
-            DataPilot v{APP_VERSION} · LangGraph + OpenAI</div>""",
+            f"""<div style='font-size:11px; color: rgba(255,255,255,0.3); line-height: 1.6;'>
+            DataPilot v{APP_VERSION} · LangGraph + OpenAI<br/>
+            Desenvolvido por Guilherme Leandro</div>""",
             unsafe_allow_html=True,
         )
 
