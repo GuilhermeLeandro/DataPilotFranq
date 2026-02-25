@@ -59,7 +59,7 @@ DataPilotFranq/
 
 ```bash
 # 1. Clone o repositório
-git clone <url-do-repositorio>
+git clone https://github.com/GuilhermeLeandro/DataPilotFranq.git
 cd DataPilotFranq
 
 # 2. Crie o ambiente virtual
